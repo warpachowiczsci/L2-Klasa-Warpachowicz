@@ -1,1 +1,1 @@
-console.log("Git Bash rządzi!");
+console.log("Git Bash jest turbo super");
